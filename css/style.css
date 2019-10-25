@@ -8,6 +8,7 @@ body {
 
 .jumbotron{
     border-radius: 0px;
+    margin-bottom: 1em;
 }
 
 .whiteBG{
@@ -18,8 +19,13 @@ body {
     min-width: 6em;
 }
 
-#currentOverview{
+#changeButton{
+    margin-top: 0.5em;
+}
+
+#currentOverview, #changeOverview{
     padding: 1em;
+    margin-bottom: 1em;
 }
 
 /**
