@@ -1,3 +1,38 @@
 body {
     font-family: 'Righteous', cursive;
+    background-image: url(../img/bg2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: fill;
+}
+
+.jumbotron{
+    border-radius: 0px;
+}
+
+.whiteBG{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.coinType{
+    min-width: 6em;
+}
+
+#currentOverview{
+    padding: 1em;
+}
+
+/**
+Colors
+**/
+.gold{
+    background-color: #7a681a;
+}
+
+.silver{
+    background-color: #c1c0b8
+}
+
+.copper{
+    background-color: #b56527;
 }
